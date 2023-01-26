@@ -1,3 +1,17 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+My name is Sun Jang
+
+
+1. Linus Torvalds in 2005
+2. Linux kernel
+3. 2005
+4. git init
+5. 'git push' command is push all changes on our computer to github repository.
+6. to tell git not to track these files like private data, huge files. 
+7. 'Fork' is complete copy of all the code and changes to my repository. We can utilize open source code by folk, and make some changes.
+8. 'Clone' is all the code in my Github repository will be copied onto my computer. I think there is no specific limits on cloning. 
+9. no. never.
+10. true
