@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Thomas Craven
+1. Linus Torvalds
+2. The develoopment of linux kernel
+3. 2005
+4. Git init
+5. Takes your files from your local machine and uplaods to github (remote)
+6. Git ignore is to tell git to ignore unwanted files to be uploaded to github
+7. A fork is taking a copy of the code files from github and putting them in your github account
+8. A clone is taking the files from github and putting them on your local machine to work on.
+9. BIG NO NO
+10. YES!
