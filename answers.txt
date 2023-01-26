@@ -1,3 +1,15 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Nick Silvestri
+
+1. Linus Torvalds
+2. Developing the Linux kernel
+3. 2005
+4. git init
+5. git push is used to save a local repository to a remote repository and exports commits made
+6. It tells git to not track certain files
+7. A fork copies a repository from Github. Forking lets you make changes without impacting the main original repo.
+8. A clone copies the code in a repo to your local machine. The clone limit is 300.
+9. No 
+10. True
