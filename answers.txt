@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Frankie Hanlon 
+1. Linus Torvalds
+2. Creator of the Linux operating system
+3. 2005
+4. git init
+5. git push is finalizing your code remotely to the github repo for pull request and review 
+6. gitignore tells git not to track certain files 
+7. fork is to copy the repo so you can make edits/removals/additions to the code with out destroying the original repo
+8. a clone is a copy of the forked code onto your computer, you can have as many as you want 
+9. NO!!!!!!!!
+10. True
