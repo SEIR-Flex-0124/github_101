@@ -1,3 +1,24 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Peter Uriarte
+
+1. Linus Torvalds
+
+2. Creating and historically leading development of Linux
+
+3. 2005
+
+4. git init
+
+5. "Publishes" changes to another repo or branch (borrowed a word from a fellow student, can't remember who exactly, sorry!)
+
+6. To tell git to ignore certain files (like files that hold private data, are too large, or would interfere with deployments)
+
+7. A fork is a copy (on GitHub) of a project. Forking a project allows one to freely develop, experiment with, iterate on, etc. the project without affecting the original project. Forks can also be used to suggest changes. Also, usually one cannot push to the original code without permission, so they must create a pull request with a fork instead.
+
+8. A clone is a copy of a project repository (usually hosted in a local machine, copied from a remote repo where the project is hosted). You can have as many clones as you have drive space. (In other words, as many as you want and as many as possible.)
+
+9. No
+
+10. True
