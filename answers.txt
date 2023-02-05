@@ -1,3 +1,35 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Student Name: RJ Crowder-Schaefer
+
+### **1. Who invented Git?**
+Linus Torvalds
+
+### **2. What else is the person who invented Git famous for?**
+Creator and lead developer of Linux 
+
+### **3. What year was Git invented?**
+2005
+
+### **4. What is the git command to initialize a new repository?**
+git init <project directory>
+
+### **5. In your own words, describe what the command `git push` is doing.**
+The `git push` command is sending the local commits that I've been saving throughout the coding timeline to the cloud-based/remote repo in my Github account. It is essentially updating the fork that I made of the initial repo and saving these updates in the cloud instead of solely on my local machine.
+
+### **6. What is the purpose of a `.gitignore` file?**
+A `.gitignore` file is a file that will not be tracked via Git and therefore not included in the push to Github. The purpose of the file is to keep sensative/private information and larger files/folders from being included in a deployment.
+
+### **7. What is a fork? Why would you want to have a fork?**
+A fork is a clone of a repository within Github. A fork allows a user to copy all of the data/files from the original repo and create a separate instance of this information that allows the user to make changes/edits without impacting the original repo. Forking allows for clear version control and various users to work on different parts of the same repo at one time.
+
+### **8. What is a clone? How many clones can you have?**
+The `git clone` command will make a local copy of the Github forked copy on the user's local machine. This allows for the repo & files to be opened and edited on a local machine. A user can make as many clones as they like.
+
+### **9. Should you put a GitHub repository inside another GitHub repository?**
+No! Never! 
+
+### **10. You can type `git status` at any time while in a git repository - true or false?**
+true
