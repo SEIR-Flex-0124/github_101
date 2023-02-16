@@ -1,3 +1,24 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+## Quiz Questions
+
+#### 1. Who invented Git?
+Linus Torvalds 
+#### 2. What else is the person who invented Git famous for?
+Linux kernel 
+#### 3. What year was Git invented?
+2005 
+#### 4. What is the git command to initialize a new repository?
+git init 
+#### 5. In your own words, describe what the command `git push` is doing.
+Git push takes the changes you've previously staged and then committed, and "pushes", or sends the code you previously forked, with your changes, to the Github branch you previously created. 
+#### 6. What is the purpose of a `.gitignore` file?
+.gitignore is used to NOT track files. Git will ignore the files associated with this command, and will not send push them as described in #5. This is useful for security features on data that is sensitive, and also on large files (node files?)we don't need to track that take a long time to process. 
+#### 7. What is a fork? Why would you want to have a fork?
+A fork is a branch repository, made from the main repository. It contains the code you will clone, and is also where code goes when it is "pushed".  
+#### 8. What is a clone? How many clones can you have?
+A clone is the actual copy of the code you forked from the main repository. It is basically a copy that contains all of the original code and commits, that the user can make edits to, without affecting the original code. I don't see why you couldn't have infinite clones. 
+#### 9. Should you put a Github repository inside of another Github repository? Literally never. 
+
+#### 10. You can type `git status` at any time while in a git repository - true or false? True! 
